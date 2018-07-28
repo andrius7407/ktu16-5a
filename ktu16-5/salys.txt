@@ -1,0 +1,203 @@
+202
+AFG Afganistano Islamo Valstybë
+IRL Airijos Respublika
+ALB Albanijos Respublika
+ALG Alþyro Liaudies Demokratinë Respublika
+ASA Rytø Samoa
+AND Andoros Kunigaikðtystë
+ANG Angolos Respublika
+ANT Antigva ir Barbuda
+ARG Argentinos Respublika
+ARM Armënijos Respublika
+ARU Aruba
+AUS Australijos Sandrauga
+AUT Austrijos Respublika
+AZE Azerbaidþano Respublika
+BAH Bahamø Sandrauga
+BRN Bahreino Karalystë
+BLR Baltarusijos Respublika
+BAN Bangladeðo Liaudies Respublika
+BAR Barbadosas
+BEL Belgijos Karalystë
+BIZ Belizas
+BEN Benino Respublika
+BER Bermudai
+GBS Bisau Gvinëjos Respublika
+BOL Bolivijos Daugiatautë Valstybë
+BIH Bosnija ir Hercegovina
+BOT Botsvanos Respublika
+BRA Brazilijos Federacinë Respublika
+BRU Brunëjaus Darusalamas
+BUL Bulgarijos Respublika
+BUR Burkina Fasas
+BDI Burundþio Respublika
+BHU Butano Karalystë
+CAF Centrinës Afrikos Respublika
+CHA Èado Respublika
+CZE Èekijos Respublika
+CHI Èilës Respublika
+DEN Danijos Karalystë
+IVB Didþiosios Britanijos Mergeliø salos
+DMA Dominikos Sandrauga
+DOM Dominikos Respublika
+CIV Dramblio Kaulo Kranto Respublika
+DJI Dþibuèio Respublika
+EGY Egipto Arabø Respublika
+ECU Ekvadoro Respublika
+ERI Eritrëja
+EST Estijos Respublika
+ETH Abisinija; Etiopijos Federacinë Demokratinë Respublika
+FIJ Fidþio Salø Respublika
+PHI Filipinø Respublika
+GAB Gabono Respublika
+GUY Gajanos Respublika
+GAM Gambijos Respublika
+GHA Ganos Respublika
+GRE Graikijos Respublika
+GRN Grenada
+GEO Gruzija
+GUM Guamas
+GUA Gvatemalos Respublika
+GUI Gvinëjos Respublika
+HAI Haièio Respublika
+HON Hondûro Respublika
+HKG Siangangas
+ESP Ispanijos Karalystë
+ITA Italijos Respublika
+ISR Izraelio Valstybë
+JAM Jamaika
+JPN Japonija
+YEM Jemeno Respublika
+JOR Jordanijos Haðimitø Karalystë
+UAE Jungtiniai Arabø Emyratai
+GBR Jungtinë Didþiosios Britanijos ir Ðiaurës Airijos Karalystë
+USA Jungtinës Amerikos Valstijos
+MNE Juodkalnija
+CAY Kaimanø salos
+CAM Kambodþos Karalystë
+CMR Kamerûno Respublika
+CAN Kanada
+QAT Kataro Valstybë
+KAZ Kazachstano Respublika
+KEN Kenijos Respublika
+CHN Kinijos Liaudies Respublika
+CYP Kipro Respublika
+KGZ Kirgizijos Respublika; Kirgizstanas
+KIR Kiribaèio Respublika
+COL Kolumbijos Respublika
+COM Komorø Federacinë Islamo Respublika
+COD Zairas
+CGO Kongo Respublika
+CRC Kosta Rikos Respublika
+CRO Kroatijos Respublika
+CUB Kubos Respublika
+COK Kuko salos
+KUW Kuveito Valstybë
+LAO Laoso Liaudies Demokratinë Respublika
+LAT Latvijos Respublika
+POL Lenkijos Respublika
+LES Lesoto Karalystë
+LIB Libano Respublika
+LBR Liberijos Respublika
+LBA Libijos Arabø Socialistinë Liaudies Dþamahirija
+LIE Lichtenðteino Kunigaikðtytë
+LTU Lietuvos Respublika
+LUX Liuksemburgo Didþioji Hercogystë
+MAC Aomenas
+MAD Madagaskaro Respublika
+MKD Makedonijos Respublika
+MAS Malaizija
+MAW Malavio Respublika
+MDV Maldyvø Respublika
+MLI Malio Respublika
+MLT Maltos Respublika
+MAR Maroko Karalystë
+MHL Marðalo Salø Respublika
+MRI Mauricijaus Respublika
+MTN Mauritanijos Islamo Respublika
+MEX Meksikos Jungtinës Valstijos
+ISV Mergeliø salos
+MYA Mianmaro Sàjunga; anksèiau – Birma
+FSM Mikronezijos Federacinës Valstijos
+MDA Moldovos Respublika; Moldova
+MON Monako Kunigaikðtystë
+MGL Mongolija
+MOZ Mozambiko Respublika
+NAM Namibijos Respublika
+NZL Naujoji Zelandija
+NRU Nauru Respublika
+NEP Nepalo Federacinë Demokratinë Respublika
+NED Nyderlandø Karalystë
+AHO Nyderlandø Antilai
+NGR Nigerijos Federacinë Respublika
+NIG Nigerio Respublika
+NCA Nikaragvos Respublika
+NOR Norvegijos Karalystë
+OMA Omano Sultonatas
+PAK Pakistano Islamo Respublika
+PLW Palau Respublika
+PLE Palestinos valstybë
+PAN Panamos Respublika
+PNG Papua Naujoji Gvinëja
+PAR Paragvajaus Respublika
+PER Peru Respublika
+RSA Pietø Afrikos Respublika
+KOR Korëjos Respublika
+POR Portugalijos Respublika
+FRA Prancûzijos Respublika
+PUR Puerto Rikas
+GEQ Pusiaujo Gvinëjos Respublika
+RWA Ruandos Respublika
+ROU Rumunija
+RUS Rusijos Federacija
+TLS Rytø Timoras
+SOL Saliamono salos
+ESA Salvadoro Respublika
+SAM Samoa Nepriklausomoji Valstybë
+SMR San Marino Respublika
+STP San Tomës ir Prinsipës Demokratinë Respublika
+KSA Saudo Arabijos Karalystë
+SEY Seiðeliø Respublika
+SEN Senegalo Respublika
+SKN Sent Kitsas ir Nevis
+LCA Sent Lusija
+VIN Sent Vinsentas ir Grenadinai
+SRB Serbijos Respublika
+SLE Siera Leonës Respublika
+SIN Singapûro Respublika
+SYR Sirijos Arabø Respublika
+SVK Slovakijos Respublika
+SLO Slovënijos Respublika
+SOM Somalio Demokratinë Respublika
+SUD Sudano Respublika
+FIN Suomijos Respublika
+SUR Surinamo Respublika
+SWZ Svazilando Karalystë
+PRK Korëjos Liaudies Demokratinë Respublika
+SRI Ðri Lankos Demokratinë Socialistinë Respublika
+SWE Ðvedijos Karalystë
+SUI Ðveicarijos Konfederacija
+TJK Tadþikistano Respublika
+THA Tailando Karalystë
+TPE Kinijos Respublika
+TAN Tanzanijos Jungtinë Respublika
+TOG Togo Respublika
+TGA Tongos Karalystë
+TRI Trinidado ir Tobago Respublika
+TUN Tuniso Respublika
+TUR Turkijos Respublika
+TKM Turkmënistanas
+TUV Tuvalu
+UGA Ugandos Respublika
+UKR Ukraina
+URU Urugvajaus Rytø Respublika
+UZB Uzbekistano Respublika
+VAN Vanuatu Respublika
+VAT Vatikano Miesto Valstybë
+VEN Venesuelos Respublika
+HUN Vengrijos Respublika
+VIE Vietnamo Socialistinë Respublika
+GER Vokietijos Federacinë Respublika
+ZAM Zambijos Respublika
+ZIM Zimbabvës Respublika
+CPV Þaliojo Kyðulio Respublika
